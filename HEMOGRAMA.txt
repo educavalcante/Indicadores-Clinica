@@ -1,0 +1,38 @@
+HEMOGRAMA
+Material: Sangue Total com EDTA
+Equipamento: xn-1000 SYSMEX
+
+
+ERITROGRAMA                                       Valores de Referência
+                 Resultado            Homem         Mulher       Criança    Acima de 70 anos
+Hemácias   : <%HEMA%> Milh./mm3    4,5 a 6,10    4,0  a 5,40   4,07 a 5,37   3,90 a 5,36
+Hemoglobina: <%HEMO%> g/dl         13,0 a 16,5   12,0 a 15,8   10,5 a 14,0   11,5 a 15,1
+Hematocrito: <%HEMT%> %            36,0 a 54,0   33,0 a 47,8   30,0 a 44,5   33,0 a 46,0
+VCM        : <%VCMX%> fl           80,0 a 98,0   80,0 a 98,0   70,0 a 86,0   80,0 a 98,0
+HCM        : <%HCMX%> pg           26,8 a 32.9   26,2 a 32,6   23,2 a 31,7   27,0 a 31,0
+CHCM       : <%CHCM%> g/dl         30,0 a 36,5   30,0 a 36,5   30,0 a 36,5   30,0 a 36,5
+RDW        : <%RDWX%> %            11,0 a 16,0   11,0 a 16,0   11,0 a 16,0   11,0 a 16,0
+
+LEUCOGRAMA
+                                                       Valores de Referência
+                        Resultado                   Adulto          Criança (menor de 8 anos)
+                         %        Leuc/mm3     %         /mm3         %         /mm3
+Global          :       100   <%GlobalH%>     100    3.600 a 11.000   100    4.000 a 14.000          
+Mielocitos      :<%MieLL%>     <%MieL%>       0      0                0      0
+Metamielocitos  : <%Meta%>    <%Meta1%>       0      0                0      0
+Bastonetes      :<%Basto%>    <%BastL%>       0-5    0 a 550          0-6    0 a 450  
+Segmentados     :<%Segme%>    <%SegmL%>       20-50  740 a 5.500      38-70  1.50 a 10.500  
+Basofilos       :<%Basof%>    <%BasoL%>       0-5    0 a 550          0-6    0 a 450                                    
+Eosinofilos     :<%Eosin%>    <%EosiL%>       0-7    0 a 550          0-5    0 a 550               
+Linfócitos Típ. :<%L.Tip%>    <%L.TiL%>       20-50  740 a 5.500      38-70  1.520 a 10.500 
+Linfócitos Atíp.:<%L.Ti1%>    <%L.TiA%>       20-50  740 a 5.500      38-70  1.520 a 10.500                                                        
+Monócitos       :<%Monoc%>    <%MonoL%>       3-14   37 a 1500        3-14   40 a 1.700    
+Observação:
+
+
+PLAQUETAS
+                                                      Valores de Referência                 
+                 Resultado                        Adulto                 Criança                               
+Plaquetas:<%PlaquetasH%> mm3                130.000 - 450.000 mm3   140.000 - 500.000 mm3                                       
+                                                
+VPM      :<%VPMvolmedP%> fl                    6,8 a 12,6 fl           6,8 a 12,6 fl

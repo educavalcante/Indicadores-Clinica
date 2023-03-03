@@ -1,0 +1,12 @@
+Dimero D
+    MÉTODO: IMUNOTURBIDIMETRIA
+
+   RESULTADO:   <%ddimero%>       ng/mL FEU
+
+   ALOR DE REFERÊNCIA: INFERIOR A 500,0 ng/mL FEU  
+                        (Unidades Equivalentes de Fibrinogênio)
+                        
+
+  NOTA:
+   - Os resultados devem ser sempre interpretados em conjunto com a história
+     clínica do paciente, exame físico e outros resultados.
